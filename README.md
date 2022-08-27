@@ -16,20 +16,21 @@ The purpose of this project was to analyze NYC Citi-Bike data so we can plan a l
 ### Visualizations
 
 We have provided 8 different visualizations...
+The first is of August peak Hours and as you can see 7am-8pm are the hours with the most use.
 ![image1](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
-
+Second is the Average Trip Duration based of age, which shows that age really doesn't matter for the use of bikes.
 ![image2](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155309.png)
-
+Third is checkout Times for users which shows that the average ride length is between 15-20minutes per ride.
 ![image3](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155323.png)
-
+Fourth is the checkout time by gender which shows very similar information as the Third pic showing ride length averaging about 15-20minutes.
 ![image4](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155336.png)
-
+Fifth is a heatmap of the trips per weekday per hour which shows similar results as previous showing 7am-8pm are the peak ride hours.
 ![image5](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155348.png)
-
+Sixth we divide the heatmap into 3 sections based on gender so show that its almost the same across all genders the use time of 7am-8pm.
 ![image6](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155405.png)
-
+Seventh we show a heatmap of trips by gender per weekday which shows that most of the use comes from subscribers versus base customers.
 ![image7](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155417.png)
-
+And lastly, eighth we show bike utilization which shows that the bikes are all being used similarly with some (favorite bikes) being used more frequently.
 ![image8](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155430.png)
 
 
