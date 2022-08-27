@@ -18,19 +18,19 @@ The purpose of this project was to analyze NYC Citi-Bike data so we can plan a l
 We have provided 8 different visualizations...
 ![image1](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
 
-![image2](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+![image2](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155309.png)
 
-![image3](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+![image3](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155323.png)
 
-![image4](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+![image4](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155336.png)
 
-![image5](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+![image5](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155348.png)
 
-![image6](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+![image6](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155405.png)
 
-![image7](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+![image7](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155417.png)
 
-![image8](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+![image8](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155430.png)
 
 
 
