@@ -15,7 +15,25 @@ The purpose of this project was to analyze NYC Citi-Bike data so we can plan a l
 
 ### Visualizations
 
-We have provided 7 different visualizations
+We have provided 8 different visualizations...
+![image1](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+
+![image2](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+
+![image3](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+
+![image4](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+
+![image5](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+
+![image6](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+
+![image7](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+
+![image8](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155255.png)
+
+
+
 
     Summary:
         There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
