@@ -1,6 +1,6 @@
 # Bike Sharing (Citi-Bike)
 ## Overview
-Tableau link:[link to dashboard](https://public.tableau.com/views/Challenge_14_Tableau/Citi-BikeUseStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Tableau link: [Challenge 14 Tableau Link](https://public.tableau.com/views/Challenge_14_Tableau/Citi-BikeUseStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ### Synopsis
 
 We are trying to bring bike sharing to Des Moines, Iowa so we are sharing some of the results of out analysis of NYC to show when would be the best time for bike sharing and whom uses the bikes the most so we can target those people with our launch in Iowa.
