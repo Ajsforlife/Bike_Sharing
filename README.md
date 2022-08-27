@@ -33,8 +33,8 @@ Seventh we show a heatmap of trips by gender per weekday which shows that most o
 And lastly, eighth we show bike utilization which shows that the bikes are all being used similarly with some (favorite bikes) being used more frequently.
 ![image8](https://github.com/Ajsforlife/bikesharing/blob/main/pictures/Screenshot%202022-08-27%20155430.png)
 
+## Summary
 
+### Additional data
 
-
-    Summary:
-        There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+The analysis is very clean and nicely put together all showing 1 thing mainly that the main use times of the bikes are 7am-8pm across all genders and across all ages. However there are a few things we should show to further benefit our investors in the Iowa project. First would be how frequently the bikes fail to operate whether due to technology or mechanical issues. Second we should add the cost of the bikes and which style of bike is being used most frequently. And third we should add data about the cost and if there is an increase in cost during peak times when most of the bikes are in use. I beleive these 3 additional key points would benefit any investor in the Iowa project.
